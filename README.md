@@ -6,3 +6,4 @@ NLP
 Sentimental Analysis!
 Kafka
 CouchDb
+OAuth
