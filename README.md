@@ -7,3 +7,4 @@ Sentimental Analysis!
 Kafka
 CouchDb
 OAuth
+Python3
